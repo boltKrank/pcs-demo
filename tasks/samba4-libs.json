@@ -1,0 +1,8 @@
+{
+    "input_method": "stdin",
+    "puppet_task_version": 1,
+    "supports_noop": false,
+    "description": "update samba client to samba4-libs-4.2.10-15.el6.x86_64.rpm via a task",
+    "parameters": {
+    }
+  }
